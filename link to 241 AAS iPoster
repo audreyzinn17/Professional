@@ -1,0 +1,15 @@
+https://aas241-aas.ipostersessions.com/Default.aspx?s=2B-4D-5C-A4-C9-7D-F3-59-55-85-8B-36-25-0D-0D-08
+
+Abstract:
+The CHIME Outriggers will utilize Very Long Baseline Interferometry (VLBI) to localize Fast Radio Bursts (FRBs) to 10s of milliarcseconds precision in the sky. 
+VLBI relies on precise timing for such localization, which comes from clock stability. We measure clock stability by measuring the Allan deviation of a clock compared 
+to a more stable clock over various timescales. The CHIME Outrigger at the Green Bank Observatory will utilize an onsite Hydrogen Maser for short timescales and a GPS
+timing system for longer timescales. The GBO Outrigger will utilize a TM4 GPS, and we will test its stability by measuring its jitter over 1000s of seconds. An error 
+of 200 picoseconds is allowed for CHIME requirements, corresponding to an Allan Deviation of σ_y(10^3) ≤ 2 * 10^-13, read to mean a root-mean-square (RMS) of 2 * 10^-13 
+for measurements taken 1000 seconds apart. We will verify whether the TM4 meets this requirement. Additionally, we will use two other GPSs of similar quality to check 
+the performance of the TM4: TM5101 GNSS and Leo Bodnar GPS. If it is found that the TM5101 and the Leo Bodnar are of comparable quality to the TM4, then they may be used
+in future projects.
+
+
+This was work done during the summer of 2022 at West Virginia University as part of the Astrophysics Research Experience for Unergraduates (REU) program. 
+If you have any questions, please feel free to contract me at zinn.60@osu.edu (until May 2023) or audreyezinn@gmail.com
